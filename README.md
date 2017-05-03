@@ -12,29 +12,29 @@
   
   Instruction:
   
-    (1) run R in the terminal：
+  (1) run R in the terminal：
   
         User$ R
   
-    (2) run the package install command in R:
+  (2) run the package install command in R:
   
         >install.packages("devtools")
   
-    (3) follow the instruction to finish package install. and load "devtools" packages:
+  (3) follow the instruction to finish package install. and load "devtools" packages:
       
          >library('devtools')
       
-    (4) after load the devtools, you can download and install "atdownload" from github:
+  (4) after load the devtools, you can download and install "atdownload" from github:
       
         >install_github('atdownload','liuyifei0226')
       
-    (5) When you finish install, you can load package and start use it:
+  (5) When you finish install, you can load package and start use it:
   
         >library('atdownload')
       
         >atget("path/to/torrent file")
         
-    (6) if everything is fine, the donwload will start and you will see the following message:
+  (6) if everything is fine, the donwload will start and you will see the following message:
     
     
           
