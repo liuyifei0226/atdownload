@@ -35,6 +35,29 @@
         >atget("path/to/torrent file")
         
   (6) if everything is fine, the donwload will start and you will see the following message:
+      
+      saving:         devinberg.com_471592PB.pdf (0.2 MB)
+      percent done:   0.0
+      time left:      
+      download to:    /Users/ChunjieXu/devinberg.com_471592PB.pdf
+      download rate:  0.0 kB/s
+      upload rate:    0.0 kB/s
+      share rating:   0.000   (0.0 MB up / 0.0 MB down)
+      seed status:    1 seen now, plus 0.000 distributed copies
+      peer status:    1 seen now, 0.0% done at 0.0 kB/s
+      
+      saving:         devinberg.com_471592PB.pdf (0.2 MB)
+      percent done:   86.4
+      time left:      complete!
+      download to:    /Users/ChunjieXu/devinberg.com_471592PB.pdf
+      download rate:  29.6 kB/s
+      upload rate:    0.0 kB/s
+      share rating:   0.000   (0.0 MB up / 0.2 MB down)
+      seed status:    4 seen now, plus 0.000 distributed copies
+      peer status:    0 seen now, 0.0% done at 0.0 kB/s
+      
+ (7) Now you can star use the data download from Academic Torrent.     
+
     
     
           
