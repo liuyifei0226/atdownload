@@ -2,7 +2,13 @@
   
   The current version R download tool is based on our python download tool. So if you want to use it, please install our 
   
-  python tool first. you can find it on github.com/liuyifei0226/atproject
+  python tool first. you can find it on: http://github.com/liuyifei0226/atproject The python package is easy install by using 
+  
+  pip install.
+  
+  Becuase this package in under development, so we have not upload it to CRAN yet. When this project is good enough,
+
+  we will upload it to CRAN, at that time, user can use "install.packages("academictorrents") " install this package.
   
 # How to install:
   
