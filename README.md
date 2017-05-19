@@ -37,10 +37,12 @@
   (5) When you finish install, you can load package and start use it:
   
         >library('atdownload')
+        
+  (6) Then you can use atget() function to download torrent file:
       
         >atget("path/to/torrent file")
         
-  (6) if everything is fine, the donwload will start and you will see the following message:
+  (7) if everything is fine, the donwload will start and you will see the following message:
       
       saving:         devinberg.com_471592PB.pdf (0.2 MB)
       percent done:   0.0
@@ -62,10 +64,20 @@
       seed status:    4 seen now, plus 0.000 distributed copies
       peer status:    0 seen now, 0.0% done at 0.0 kB/s
       
- (7) Now you can star use the data download from Academic Torrent.     
+ (8) Now you can star use the data download from Academic Torrent.     
 
     
-    
+# How to Uninstall:
+
+ (*) run the package Uninstall command in R:
+  
+        >remove.packages("devtools")
+        
+# Other important things:
+
+ (*) Just remember, everytime you run R in a new terminal, please reload atdownload package:
+
+        >library('atdownload')
           
           
       
